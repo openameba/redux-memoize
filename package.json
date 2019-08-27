@@ -3,6 +3,7 @@
   "version": "2.3.1",
   "description": "Memoize action creator for redux, and let you dispatch common/thunk/promise/async action whenever you want to, without worrying about duplication",
   "main": "lib/index.js",
+  "module": "src/index.js",
   "directories": {
     "test": "jest"
   },
