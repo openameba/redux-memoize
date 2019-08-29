@@ -16,7 +16,7 @@
     "build": "babel src --out-dir lib",
     "lint": "eslint src test",
     "posttest": "npm run lint",
-    "prepublish": "npm run clean && npm run test && npm run build",
+    "prepublish": "npm run clean && npm run build",
     "test": "jest"
   },
   "repository": {
