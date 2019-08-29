@@ -1,4 +1,4 @@
-import lodashIsEqual from 'lodash/isEqual';
+import lodashIsEqual from 'lodash.isequal';
 
 const ACTION_TYPE = '@redux-memoize/action';
 
